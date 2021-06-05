@@ -1,0 +1,21 @@
+body{
+    background-image:url("background.jpeg");
+    background-size:cover;
+}
+
+#heading{
+    margin-top:220px;
+    font-family:'Times New Roman', Times, serif; 
+    font-size:38px;
+}
+
+#snapshot{
+    font-family:'Times New Roman', Times, serif; 
+    font-size:20px;
+}
+
+canvas{
+    border-color: black;
+    border-radius:30px; 
+    border-width:3px;
+} 
